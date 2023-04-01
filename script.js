@@ -95,6 +95,6 @@ const calculate = () => {
             break
     }
 
-    currentNumber = result.toLocaleString('tr-TR');
+    currentNumber = result.toLocaleString('en-US');
     calculationOperator = '';
 }
